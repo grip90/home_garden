@@ -1,0 +1,4 @@
+0700  #Morning
+1400  #Noon
+1700  #Evening
+30    #seconds to water
